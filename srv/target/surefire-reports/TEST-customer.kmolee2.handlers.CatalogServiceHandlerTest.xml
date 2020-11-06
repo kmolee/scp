@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="3" failures="0" name="customer.kmolee2.handlers.CatalogServiceHandlerTest" time="0.034" errors="0" skipped="0">
+<testsuite tests="3" failures="0" name="customer.kmolee2.handlers.CatalogServiceHandlerTest" time="0.083" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.6.0.1+10-LTS-sapmachine"/>
@@ -60,7 +60,7 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="customer.kmolee2.handlers.CatalogServiceHandlerTest" name="testNoDiscount" time="0.034"/>
+  <testcase classname="customer.kmolee2.handlers.CatalogServiceHandlerTest" name="testNoDiscount" time="0.083"/>
   <testcase classname="customer.kmolee2.handlers.CatalogServiceHandlerTest" name="testDiscount" time="0"/>
   <testcase classname="customer.kmolee2.handlers.CatalogServiceHandlerTest" name="testNoStockAvailable" time="0"/>
 </testsuite>

@@ -6,3 +6,6 @@ default-env.json
 
 # auto generated wildcard
 .env2
+
+# ignore all files in the build/ directory
+node_modules/*
